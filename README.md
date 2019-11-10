@@ -2,7 +2,7 @@
 
 ` It is an assignment for [DS4013 Data Mining] in BNU-HKBU United International College Data-Science undergraduate programm. `
 
-This repository contains implementations of k Nearest Neighbor Algorithm, Naive Bayes Classification and Perceptron Classification in plain Python (Python Version 3.6+). These three algorithms are implemented from scratch without using additional machine learning libraries. Besides, this repository contains 4 classifiers by scikit-learn.
+This repository contains implementations of k Nearest Neighbor Algorithm, Naive Bayes Classification and Perceptron Classification in plain Python (Python Version 3.6+). These three algorithms are implemented from scratch without using additional machine learning libraries. Besides, this repository contains 5 classifiers by scikit-learn.
 
 - k Nearest Neighbor Algorithm
 - Naive Bayes Classification
@@ -11,7 +11,8 @@ This repository contains implementations of k Nearest Neighbor Algorithm, Naive 
 Implemented through scikit-learn：
 - Decision Tree Classifiers
 - Random Forest Classifier
--  Bagging Classifier
+- AdaBoost Classifier
+- Bagging Classifier
 - Linear Discriminant Analysis
 
 ## Data
